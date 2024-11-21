@@ -21,7 +21,14 @@
             "imageURL": "https://picsum.photos/seed/picsum/200/300",
             "stepNumber": 2,
             "isActive": true
-        }
+        },
+        {
+          "titleText": "Introdddduction",
+          "additionText": "We'll introduce the main features.",
+          "imageURL": "https://picsum.photos/seed/picsum/600/300",
+          "stepNumber": 3,
+          "isActive": true
+      }
     ]
 },
   "comments": [
