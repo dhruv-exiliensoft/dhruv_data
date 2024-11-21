@@ -11,14 +11,14 @@
         {
             "titleText": "Welcome!",
             "additionText": "We're happy to have you with us.",
-            "imageURL": "https://unsplash.com/photos/a-laptop-with-a-broken-keyboard-and-a-broken-camera-z1YJCZ-yV2Q",
+            "imageURL": "https://picsum.photos/seed/picsum/200/300",
             "stepNumber": 1,
             "isActive": true
         },
         {
             "titleText": "Introduction",
             "additionText": "We'll introduce the main features.",
-            "imageURL": "https://unsplash.com/photos/a-keyboard-and-a-mouse-on-a-table-0dR66ZYdRxI",
+            "imageURL": "https://picsum.photos/seed/picsum/200/300",
             "stepNumber": 2,
             "isActive": true
         }
