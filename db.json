@@ -11,14 +11,14 @@
       {
         "titleText": "Welcome!",
         "additionText": "We're happy to have you with us.",
-        "imageURL": "https://example.com/img/welcome_en.png",
+        "imageURL": "https://picsum.photos/id/870/200/300?grayscale&blur=2",
         "stepNumber": 1,
         "isActive": true
     },
     {
         "titleText": "Introduction",
         "additionText": "We'll introduce the main features.",
-        "imageURL": "https://example.com/img/intro_en.png",
+        "imageURL": "https://picsum.photos/200/300.jpg",
         "stepNumber": 2,
         "isActive": true
     }
