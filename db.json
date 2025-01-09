@@ -1,6 +1,7 @@
 {
   "welcome": [
     {
+      "hide_seek":"Hide and Seek",
       "next": "Next",
       "skip": "Skip",
       "getStartedNow": "Get Started Now",
