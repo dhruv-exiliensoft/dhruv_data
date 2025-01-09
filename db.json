@@ -1,131 +1,502 @@
 {
-  "welcome": 
-  {
-    "next": "Next",
-    "skip": "Skip",
-    "getStartedNow" : "Get Started Now",
-    "createanaccountorlogintoexploreaboutourapp":"Create an account or log in to explore about our app",
-    "letsPlanNewTrip" : "Let's Plan a Trip",
-    "name_label": "Name",
-    "name_hint": "Name",
-    "enter_name": "Enter Name",
-    "email_label": "Email",
-    "email_hint": "example@gmail.com",
-    "password_label" : "Password",
-    "enter_password" : "Enter password",
-    "password_is_required" : "Password is required!",
-    "confirm_password" : "Confirm Password",
-    "enter_confirm_password" : "Enter confirm password",
-    "password_must_be_at_least_8_characters_long" : "Password must be at least 8 characters long.",
-    "password_must_contain_at_least_one_uppercase_letter" : "Password must contain at least one uppercase letter.",
-    "password_must_contain_at_least_one_lowercase_letter" : "Password must contain at least one lowercase letter.",
-    "password_must_contain_at_least_one_number":"Password must contain at least one number.",
-    "password_must_contain_at_least_one_special_character":"Password must contain at least one special character .",
-    "password_must_contain_long":"Password must be at least 8 characters long, including an uppercase letter, a lowercase letter, a number, and a special character",
-    "password_hint": "*******",
-    "remember_me": "Remember me",
-    "i_have_read_the": "I have read the ",
-    "forget_password": "Forget Password ?",
-    "terms_and_conditions": "Terms and Conditions",
-    "and_check_your_mail": "and Check your Mail",
-    "log_in":"Log In",
-    "sign_up":"Sign Up",
-    "or": "Or",
-    "continue_with_google": "Continue with Google",
-    "continue_with_facebook": "Continue with Facebook",
-    "sign_in_failed": "Sign in Failed",
-    "add_travelers": "Add Travelers",
-    "here_your_group": "Here's your group",
-    "recent": "Recent",
-    "contacts": "Contacts",
-    "new_": "New",
-    "send_invite": "Send Invite",
-    "assign_roles": "Assign Roles",
-    "traveler": "Traveler",
-    "co_organiser": "Co-Organiser",
-    "skip_for_now": "Skip for now",
-    "continue_": "Continue",
-    "set_a_budget": "Set a budget",
-    "set_budget": "Set budget",
-    "generating_your_trip": "Generating your trip!",
-    "your_trip": "Your Trip",
-    "trip_name": "Trip Name",
-    "start": "Start",
-    "end": "End",
-    "destination": "Destination",
-    "duration_of_your_travel": "Duration of your travel is",
-    "just_a_moment": "Just a moment..",
-    "preparing_your_trip": "Preparing your trip",
-    "name_required": "Name is required!",
-    "email_required": "Email is required!",
-    "email": "Email",
-    "enter_email": "Enter email",
-    "please_enter_a_valid_email": "Please enter a valid email",
-    "phone_number_label": "Phone Number",
-    "phone_number_hint": "Enter Phone Number",
-    "where_are_you_going": "Where are you going",
-    "user_info" : "User Info",
-    "logout" : "Logout",
-    "profile" : "Profile",
-    "please_try_again_after_sometime" :"Please try Again After Sometime ",
-    "home":"Home",
-    "discover":"Discover",
-    "my_trips":"My Trips",
-    "reports":"Reports",
-    "you_havent_added_any_travelers_yet" : "You haven’t added any travelers yet",
-    "your_travel_companions":"Your travel companions",
-    "create_a_traveler" : "Create a traveler",
-    "maximum_resend_attempts_reached" :"Maximum resend attempts reached",
-    "check_your_email" :"Check your email",
-    "pin":"PIN",
-    "resend_code_in" :"Resend code in ",
-    "sec" :" Sec",
-    "resend_code" :"Resend code",
-    "attempts":"attempts",
-    "now_you_can_login":"Now you can login",
-    "pin_verify_successful" :"PIN Verify Successful!",
-    "forgot_password":"Forgot password",
-    "please_enter_your_email_to_reset_the_password":"Please enter your email to reset the password",
-    "enter_you_registered_email":"Enter you registered email",
-    "reset_password":"Reset Password",
-    "update_password" :"Update Password",
-    "password_reset":"Password Reset",
-    "your_password_has_been_successfully_reset_click_confirm_to_set_a_new_password":"Your password has been successfully reset. click confirm to set a new password",
-    "confirm":"Confirm",
-    "please_wait" : "Please wait",
-    "no_data_available":"No Data Available",
-    "travelers":"Travelers",
-    "passport" :"Passport",
-    "visa":"Visa",
-    "passport_number" :"Passport Number",
-    "nationality":"Nationality",
-    "expiry" :"Expiry",
-    "view_passport":"View Passport",
-    "visa_type":"Visa Type",
-    "visa_number":"Visa Number",
-    "visa_passport":"Visa Passport",
-    "entries":"Entries",
-    "date_of_issuance" : "Date of Issuance",
-    "visa_expiry" : "Visa Expiry",
-    "issuing_authority" : "Issuing Authority",
-    "view_visa":"View Visa",
-    "edit_profile" : "Edit Profile",
-    "general" :"General",
-    "date_of_birth":"Date of Birth",
-    "select_date_of_birth" :"Select Date of Birth",
-    "countryregion" : "Country/Region",
-    "save":"Save",
-    "add_another_passport":"Add Another Passport",
-    "add_another_visa":"Add Another Visa",
-    "remove":"Remove",
-    "passport_expiry" : "Passport Expiry",
-    "country_of_issuance" : "Country of Issuance",
-    "visa_expiry_date" :"Visa Expiry Date",
-    "enter_passport_number":"Enter Passport Number",
-    "select_passport_expiry_date":"Select Passport Expiry Date",
-    "please_select_country" :"Please select country",
-    "enter_visa_number": "Enter Visa Number"
-  },
+  "welcome": [
+    {
+      "key": "next",
+      "value": "Next"
+    },
+    {
+      "key": "skip",
+      "value": "Skip"
+    },
+    {
+      "key": "getStartedNow",
+      "value": "Get Started Now"
+    },
+    {
+      "key": "createanaccountorlogintoexploreaboutourapp",
+      "value": "Create an account or log in to explore about our app"
+    },
+    {
+      "key": "letsPlanNewTrip",
+      "value": "Let's Plan a Trip"
+    },
+    {
+      "key": "name_label",
+      "value": "Name"
+    },
+    {
+      "key": "name_hint",
+      "value": "Name"
+    },
+    {
+      "key": "enter_name",
+      "value": "Enter Name"
+    },
+    {
+      "key": "email_label",
+      "value": "Email"
+    },
+    {
+      "key": "email_hint",
+      "value": "example@gmail.com"
+    },
+    {
+      "key": "password_label",
+      "value": "Password"
+    },
+    {
+      "key": "enter_password",
+      "value": "Enter password"
+    },
+    {
+      "key": "password_is_required",
+      "value": "Password is required!"
+    },
+    {
+      "key": "confirm_password",
+      "value": "Confirm Password"
+    },
+    {
+      "key": "enter_confirm_password",
+      "value": "Enter confirm password"
+    },
+    {
+      "key": "password_must_be_at_least_8_characters_long",
+      "value": "Password must be at least 8 characters long."
+    },
+    {
+      "key": "password_must_contain_at_least_one_uppercase_letter",
+      "value": "Password must contain at least one uppercase letter."
+    },
+    {
+      "key": "password_must_contain_at_least_one_lowercase_letter",
+      "value": "Password must contain at least one lowercase letter."
+    },
+    {
+      "key": "password_must_contain_at_least_one_number",
+      "value": "Password must contain at least one number."
+    },
+    {
+      "key": "password_must_contain_at_least_one_special_character",
+      "value": "Password must contain at least one special character."
+    },
+    {
+      "key": "password_must_contain_long",
+      "value": "Password must be at least 8 characters long, including an uppercase letter, a lowercase letter, a number, and a special character."
+    },
+    {
+      "key": "password_hint",
+      "value": "*******"
+    },
+    {
+      "key": "remember_me",
+      "value": "Remember me"
+    },
+    {
+      "key": "i_have_read_the",
+      "value": "I have read the"
+    },
+    {
+      "key": "forget_password",
+      "value": "Forget Password?"
+    },
+    {
+      "key": "terms_and_conditions",
+      "value": "Terms and Conditions"
+    },
+    {
+      "key": "and_check_your_mail",
+      "value": "and Check your Mail"
+    },
+    {
+      "key": "log_in",
+      "value": "Log In"
+    },
+    {
+      "key": "sign_up",
+      "value": "Sign Up"
+    },
+    {
+      "key": "or",
+      "value": "Or"
+    },
+    {
+      "key": "continue_with_google",
+      "value": "Continue with Google"
+    },
+    {
+      "key": "continue_with_facebook",
+      "value": "Continue with Facebook"
+    },
+    {
+      "key": "sign_in_failed",
+      "value": "Sign in Failed"
+    },
+    {
+      "key": "add_travelers",
+      "value": "Add Travelers"
+    },
+    {
+      "key": "here_your_group",
+      "value": "Here's your group"
+    },
+    {
+      "key": "recent",
+      "value": "Recent"
+    },
+    {
+      "key": "contacts",
+      "value": "Contacts"
+    },
+    {
+      "key": "new_",
+      "value": "New"
+    },
+    {
+      "key": "send_invite",
+      "value": "Send Invite"
+    },
+    {
+      "key": "assign_roles",
+      "value": "Assign Roles"
+    },
+    {
+      "key": "traveler",
+      "value": "Traveler"
+    },
+    {
+      "key": "co_organiser",
+      "value": "Co-Organiser"
+    },
+    {
+      "key": "skip_for_now",
+      "value": "Skip for now"
+    },
+    {
+      "key": "continue_",
+      "value": "Continue"
+    },
+    {
+      "key": "set_a_budget",
+      "value": "Set a budget"
+    },
+    {
+      "key": "set_budget",
+      "value": "Set budget"
+    },
+    {
+      "key": "generating_your_trip",
+      "value": "Generating your trip!"
+    },
+    {
+      "key": "your_trip",
+      "value": "Your Trip"
+    },
+    {
+      "key": "trip_name",
+      "value": "Trip Name"
+    },
+    {
+      "key": "start",
+      "value": "Start"
+    },
+    {
+      "key": "end",
+      "value": "End"
+    },
+    {
+      "key": "destination",
+      "value": "Destination"
+    },
+    {
+      "key": "duration_of_your_travel",
+      "value": "Duration of your travel is"
+    },
+    {
+      "key": "just_a_moment",
+      "value": "Just a moment.."
+    },
+    {
+      "key": "preparing_your_trip",
+      "value": "Preparing your trip"
+    },
+    {
+      "key": "name_required",
+      "value": "Name is required!"
+    },
+    {
+      "key": "email_required",
+      "value": "Email is required!"
+    },
+    {
+      "key": "email",
+      "value": "Email"
+    },
+    {
+      "key": "enter_email",
+      "value": "Enter email"
+    },
+    {
+      "key": "please_enter_a_valid_email",
+      "value": "Please enter a valid email"
+    },
+    {
+      "key": "phone_number_label",
+      "value": "Phone Number"
+    },
+    {
+      "key": "phone_number_hint",
+      "value": "Enter Phone Number"
+    },
+    {
+      "key": "where_are_you_going",
+      "value": "Where are you going"
+    },
+    {
+      "key": "user_info",
+      "value": "User Info"
+    },
+    {
+      "key": "logout",
+      "value": "Logout"
+    },
+    {
+      "key": "profile",
+      "value": "Profile"
+    },
+    {
+      "key": "please_try_again_after_sometime",
+      "value": "Please try Again After Sometime"
+    },
+    {
+      "key": "home",
+      "value": "Home"
+    },
+    {
+      "key": "discover",
+      "value": "Discover"
+    },
+    {
+      "key": "my_trips",
+      "value": "My Trips"
+    },
+    {
+      "key": "reports",
+      "value": "Reports"
+    },
+    {
+      "key": "you_havent_added_any_travelers_yet",
+      "value": "You haven’t added any travelers yet"
+    },
+    {
+      "key": "your_travel_companions",
+      "value": "Your travel companions"
+    },
+    {
+      "key": "create_a_traveler",
+      "value": "Create a traveler"
+    },
+    {
+      "key": "maximum_resend_attempts_reached",
+      "value": "Maximum resend attempts reached"
+    },
+    {
+      "key": "check_your_email",
+      "value": "Check your email"
+    },
+    {
+      "key": "pin",
+      "value": "PIN"
+    },
+    {
+      "key": "resend_code_in",
+      "value": "Resend code in"
+    },
+    {
+      "key": "sec",
+      "value": " Sec"
+    },
+    {
+      "key": "resend_code",
+      "value": "Resend code"
+    },
+    {
+      "key": "attempts",
+      "value": "attempts"
+    },
+    {
+      "key": "now_you_can_login",
+      "value": "Now you can login"
+    },
+    {
+      "key": "pin_verify_successful",
+      "value": "PIN Verify Successful!"
+    },
+    {
+      "key": "forgot_password",
+      "value": "Forgot password"
+    },
+    {
+      "key": "please_enter_your_email_to_reset_the_password",
+      "value": "Please enter your email to reset the password"
+    },
+    {
+      "key": "enter_you_registered_email",
+      "value": "Enter your registered email"
+    },
+    {
+      "key": "reset_password",
+      "value": "Reset Password"
+    },
+    {
+      "key": "update_password",
+      "value": "Update Password"
+    },
+    {
+      "key": "password_reset",
+      "value": "Password Reset"
+    },
+    {
+      "key": "your_password_has_been_successfully_reset_click_confirm_to_set_a_new_password",
+      "value": "Your password has been successfully reset. Click confirm to set a new password"
+    },
+    {
+      "key": "confirm",
+      "value": "Confirm"
+    },
+    {
+      "key": "please_wait",
+      "value": "Please wait"
+    },
+    {
+      "key": "no_data_available",
+      "value": "No Data Available"
+    },
+    {
+      "key": "travelers",
+      "value": "Travelers"
+    },
+    {
+      "key": "passport",
+      "value": "Passport"
+    },
+    {
+      "key": "visa",
+      "value": "Visa"
+    },
+    {
+      "key": "passport_number",
+      "value": "Passport Number"
+    },
+    {
+      "key": "nationality",
+      "value": "Nationality"
+    },
+    {
+      "key": "expiry",
+      "value": "Expiry"
+    },
+    {
+      "key": "view_passport",
+      "value": "View Passport"
+    },
+    {
+      "key": "visa_type",
+      "value": "Visa Type"
+    },
+    {
+      "key": "visa_number",
+      "value": "Visa Number"
+    },
+    {
+      "key": "visa_passport",
+      "value": "Visa Passport"
+    },
+    {
+      "key": "entries",
+      "value": "Entries"
+    },
+    {
+      "key": "date_of_issuance",
+      "value": "Date of Issuance"
+    },
+    {
+      "key": "visa_expiry",
+      "value": "Visa Expiry"
+    },
+    {
+      "key": "issuing_authority",
+      "value": "Issuing Authority"
+    },
+    {
+      "key": "view_visa",
+      "value": "View Visa"
+    },
+    {
+      "key": "edit_profile",
+      "value": "Edit Profile"
+    },
+    {
+      "key": "general",
+      "value": "General"
+    },
+    {
+      "key": "date_of_birth",
+      "value": "Date of Birth"
+    },
+    {
+      "key": "select_date_of_birth",
+      "value": "Select Date of Birth"
+    },
+    {
+      "key": "countryregion",
+      "value": "Country/Region"
+    },
+    {
+      "key": "save",
+      "value": "Save"
+    },
+    {
+      "key": "add_another_passport",
+      "value": "Add Another Passport"
+    },
+    {
+      "key": "add_another_visa",
+      "value": "Add Another Visa"
+    },
+    {
+      "key": "remove",
+      "value": "Remove"
+    },
+    {
+      "key": "passport_expiry",
+      "value": "Passport Expiry"
+    },
+    {
+      "key": "country_of_issuance",
+      "value": "Country of Issuance"
+    },
+    {
+      "key": "visa_expiry_date",
+      "value": "Visa Expiry Date"
+    },
+    {
+      "key": "enter_passport_number",
+      "value": "Enter Passport Number"
+    },
+    {
+      "key": "select_passport_expiry_date",
+      "value": "Select Passport Expiry Date"
+    },
+    {
+      "key": "please_select_country",
+      "value": "Please select country"
+    },
+    {
+      "key": "enter_visa_number",
+      "value": "Enter Visa Number"
+    }
+  ],
   "comments": [
     {
       "id": 1,
