@@ -138,7 +138,8 @@
       "phone_number_required": "Phone Number is required!",
       "please_enter_confirm_password": "Please Enter Confirm Password",
       "please_check_t_c": "Please check T&C",
-      "please_enter_email_password": "Please Enter Email and Password"
+      "please_enter_email_password": "Please Enter Email and Password",
+      "manage_travelers":"Manage Travelers"
     }
   ]
 }
