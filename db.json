@@ -139,7 +139,9 @@
       "please_enter_confirm_password": "Please Enter Confirm Password",
       "please_check_t_c": "Please check T&C",
       "please_enter_email_password": "Please Enter Email and Password",
-      "manage_travelers":"Manage Travelers"
+      "manage_travelers":"Manage Travelers",
+      "add_a_traveler":"Add a Traveler",
+      "add_traveler":"Add Traveler"
     }
   ]
 }
