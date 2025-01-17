@@ -66,7 +66,7 @@
       "please_enter_a_valid_password": "Please enter a valid Password",
       "phone_number_label": "Phone Number",
       "phone_number_hint": "Enter Phone Number",
-      "where_are_you_going": "Where are you going",
+      "where_are_you_going": "Where are you going?",
       "user_info": "User Info",
       "logout": "Logout",
       "profile": "Profile",
@@ -140,8 +140,20 @@
       "please_check_t_c": "Please check T&C",
       "please_enter_email_password": "Please Enter Email and Password",
       "manage_travelers":"Manage Travelers",
-      "add_a_traveler":"Add a Traveler",
-      "add_traveler":"Add Traveler"
+
+      "lets_plan_your_trip":"Let's plan your trip",
+      "im_going_to_Athens_with_family_in_october":"I’m going to Athens with family in october",
+      "upload_all_your_travel_documents_to_generate_a_personalized_trip_itinerary_in_one_click":"Upload all your travel documents to generate a personalized trip itinerary in one click!",
+      "upload_documents":"Upload Documents",
+      "documents_such_as_air_tickets_hotel_voucher_train_tickets_transfers_etc":"Documents such as air tickets, hotel voucher,\ntrain tickets, transfers etc",
+      "lets_go":"Let's go!",
+      "trip_name_is_required":"Trip name is required",
+      "start_date":"Start Date",
+      "end_date":"End Date",
+      "duration_of_your_travel_is":"Duration of your travel is ",
+      "destination_cant_be_empty":"Destination can't be empty",
+      "destination_is_required":"Destination is required",
+      "create_trip":"Create Trip"
     }
   ]
 }
